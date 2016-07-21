@@ -1,0 +1,19 @@
+div{
+  padding: 10px;
+  margin: 10px; 
+  display: inline-block;
+}
+
+.uno{
+  background-color: yellow;
+  
+}
+
+.dos{
+  background-color: red;
+  
+}
+
+.tres{
+  background-color: yellow;
+}
